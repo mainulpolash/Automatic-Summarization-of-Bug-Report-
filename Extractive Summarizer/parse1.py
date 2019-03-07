@@ -10,6 +10,8 @@ import nltk.data
 import rake
 import operator
 import io
+__author__ = 'Mainul Polash'
+
 
 # EXAMPLE ONE - SIMPLE
 stoppath = "data/stoplists/SmartStoplist.txt"
